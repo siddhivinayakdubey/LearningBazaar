@@ -1,0 +1,58 @@
+[
+    {
+        "summary": "Today's lecture and Wednesday's lecture are going to talk about object oriented programming. The content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT It courses, visit OCW at mitedu.",
+        "headline": "Today's lecture and Wednesday's lecture are going to talk about object oriented programming.",
+        "gist": "Intro to object oriented programming.",
+        "start": 790,
+        "end": 57886
+    },
+    {
+        "summary": "Everything in Python is an object. Every object has a type, some sort of way that it's represented in Python and some ways that we can interact with them. Once a type is established, you can create a new object of that type and manipulate it. Lists and dictionaries are more complicated objects.",
+        "headline": "Lists and dictionaries are complicated objects.",
+        "gist": "How objects in python are represented.",
+        "start": 58068,
+        "end": 205190
+    },
+    {
+        "summary": "Objects are data abstractions. The representation of a car is the number of wheels, doors, length, and height. And the interface is the ways that you can interact with the car. For example, painting it, changing its color, making it make noises, or driving it.",
+        "headline": "The representation of a car is the number of wheels, doors, length and height, and the interface is the ways that you can interact with the car.",
+        "gist": "Blueprints for cars.",
+        "start": 207710,
+        "end": 286340
+    },
+    {
+        "summary": "Python explains how a list is represented in terms of the data representation and how it's manipulated. The advantages of object oriented programming are that you can create objects with the same internal representation and ways to interact with them as you do with a function. This makes it easier to write code that's reusable and easier to read in the future. When you create an instance, you create a new object that has the type the name of your class and can create as many objects as you'd like. You can do all the operations that you've defined on the class. For example, someone wrote the code to implement this class and then you can just use the list class like this.",
+        "headline": "The advantages of object-oriented programming are that you can create objects with the same internal representation and ways to interact with them as with a function.",
+        "gist": "How do you interact with lists.",
+        "start": 288470,
+        "end": 628700
+    },
+    {
+        "summary": "Today's lecture looks at code that's going to be in the context of a coordinate object. In Python, a coordinate is an object that defines a point in an XY plane. Attributes are data and procedures are ways that people can interact with the object. The data attributes belong to the class. The procedures belong to a different class.",
+        "headline": "In Python coordinates are data and procedures are ways that people can interact with them.",
+        "gist": "Defining our own types.",
+        "start": 631650,
+        "end": 861110
+    },
+    {
+        "summary": "In the class exercise, we create a class called Coordinate Object. We define the data attributes. The Self is a special method or function in a class. It tells Python when you first create an object of this type to call this method or call this function. The first parameter of the class is always named Self. The same dot notation can be used with your own objects in order to access data attributes. When you're calling methods, you're using the dot operator like L dot append, for example. For lists, methods are procedural attributes that allow us to interact with our object.",
+        "headline": "In the class exercise we create a class called Coordinate object.",
+        "gist": "Define our data attributes.",
+        "start": 862870,
+        "end": 1299350
+    },
+    {
+        "summary": "In this slide we are going to define a method called Distance. It takes a self and an other and returns a value. Distance is a function that takes in parameters and does some stuff. It uses the dot notation in order to decide whose data attributes you want to access. By default, when you create a coordinate class, Python tells you the wrong information. When you print an object of that type, you need to define a special method STR that tells Python what to do. When you call Print on a coordinate object of this type, the method returns a string with the X value of the object self X and the y value of an object self y.",
+        "headline": "It returns a string with the X value of the object self X and the y value of an object self y.",
+        "gist": "Euclideanstack from self to other.",
+        "start": 1301650,
+        "end": 1833360
+    },
+    {
+        "summary": "Python explains how to create a coordinate, a fraction, and a float class. It's a type, a class, a type, and a type. The special operators allow you to customize your classes. Python doesn't know how to add two objects of type coordinate without telling it how to do it. Once again, we're trying to access the data attributes of each different instance of myself and the other object that I'm working with. Once I figure out the top and the bottom of the addition, I'm going to return a new fraction object. The power of objectoriented programming is that you can bundle together objects that are the exact same type and have the same data representation.",
+        "headline": "Python doesn't know how to add two objects of type coordinate without telling it how to do it.",
+        "gist": "Wrap our hand around types and classes.",
+        "start": 1837870,
+        "end": 2495660
+    }
+]

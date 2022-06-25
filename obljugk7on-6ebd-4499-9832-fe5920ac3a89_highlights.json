@@ -1,0 +1,314 @@
+{
+    "status": "success",
+    "results": [
+        {
+            "count": 1,
+            "rank": 0.11,
+            "text": "integer objects float objects",
+            "timestamps": [
+                {
+                    "start": 2484556,
+                    "end": 2486850
+                }
+            ]
+        },
+        {
+            "count": 15,
+            "rank": 0.1,
+            "text": "Fraction object",
+            "timestamps": [
+                {
+                    "start": 2033104,
+                    "end": 2034194
+                },
+                {
+                    "start": 2038936,
+                    "end": 2039920
+                },
+                {
+                    "start": 2041690,
+                    "end": 2042920
+                },
+                {
+                    "start": 2052496,
+                    "end": 2053420
+                },
+                {
+                    "start": 2057536,
+                    "end": 2058278
+                },
+                {
+                    "start": 2082568,
+                    "end": 2083382
+                },
+                {
+                    "start": 2215892,
+                    "end": 2216900
+                },
+                {
+                    "start": 2234890,
+                    "end": 2236014
+                },
+                {
+                    "start": 2240456,
+                    "end": 2241440
+                },
+                {
+                    "start": 2269332,
+                    "end": 2270460
+                },
+                {
+                    "start": 2282872,
+                    "end": 2283940
+                },
+                {
+                    "start": 2340824,
+                    "end": 2341880
+                },
+                {
+                    "start": 2368076,
+                    "end": 2369190
+                },
+                {
+                    "start": 2375996,
+                    "end": 2378240
+                },
+                {
+                    "start": 2456464,
+                    "end": 2457362
+                }
+            ]
+        },
+        {
+            "count": 7,
+            "rank": 0.1,
+            "text": "coordinate objects",
+            "timestamps": [
+                {
+                    "start": 1122014,
+                    "end": 1123330
+                },
+                {
+                    "start": 1217104,
+                    "end": 1218350
+                },
+                {
+                    "start": 1375544,
+                    "end": 1376910
+                },
+                {
+                    "start": 1480884,
+                    "end": 1481930
+                },
+                {
+                    "start": 1759534,
+                    "end": 1760242
+                },
+                {
+                    "start": 1996804,
+                    "end": 1997634
+                },
+                {
+                    "start": 2020636,
+                    "end": 2021418
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.09,
+            "text": "object Cy",
+            "timestamps": [
+                {
+                    "start": 1511850,
+                    "end": 1513690
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.09,
+            "text": "object oriented programming",
+            "timestamps": [
+                {
+                    "start": 40080,
+                    "end": 41438
+                },
+                {
+                    "start": 128428,
+                    "end": 130002
+                },
+                {
+                    "start": 460224,
+                    "end": 461354
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.08,
+            "text": "type class coordinate",
+            "timestamps": [
+                {
+                    "start": 1888876,
+                    "end": 1890590
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.07,
+            "text": "type list",
+            "timestamps": [
+                {
+                    "start": 305504,
+                    "end": 306380
+                },
+                {
+                    "start": 695224,
+                    "end": 695726
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "two coordinate type objects",
+            "timestamps": [
+                {
+                    "start": 859000,
+                    "end": 861110
+                }
+            ]
+        },
+        {
+            "count": 7,
+            "rank": 0.07,
+            "text": "classes",
+            "timestamps": [
+                {
+                    "start": 638894,
+                    "end": 639770
+                },
+                {
+                    "start": 640752,
+                    "end": 641138
+                },
+                {
+                    "start": 708004,
+                    "end": 708510
+                },
+                {
+                    "start": 1407692,
+                    "end": 1408078
+                },
+                {
+                    "start": 1845884,
+                    "end": 1846330
+                },
+                {
+                    "start": 1948624,
+                    "end": 1949390
+                },
+                {
+                    "start": 1969120,
+                    "end": 1969910
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.07,
+            "text": "own object type",
+            "timestamps": [
+                {
+                    "start": 684796,
+                    "end": 685946
+                },
+                {
+                    "start": 2491924,
+                    "end": 2492858
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "class main coordinate",
+            "timestamps": [
+                {
+                    "start": 1874184,
+                    "end": 1875910
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.06,
+            "text": "other coordinate object",
+            "timestamps": [
+                {
+                    "start": 1352852,
+                    "end": 1354122
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.06,
+            "text": "own new fraction object",
+            "timestamps": [
+                {
+                    "start": 2455804,
+                    "end": 2457362
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.06,
+            "text": "basic object type",
+            "timestamps": [
+                {
+                    "start": 2478496,
+                    "end": 2480174
+                }
+            ]
+        },
+        {
+            "count": 7,
+            "rank": 0.06,
+            "text": "type coordinate",
+            "timestamps": [
+                {
+                    "start": 1517472,
+                    "end": 1518194
+                },
+                {
+                    "start": 1673540,
+                    "end": 1674634
+                },
+                {
+                    "start": 1731944,
+                    "end": 1732894
+                },
+                {
+                    "start": 1826376,
+                    "end": 1826906
+                },
+                {
+                    "start": 1934172,
+                    "end": 1935490
+                },
+                {
+                    "start": 1984576,
+                    "end": 1985418
+                },
+                {
+                    "start": 1992556,
+                    "end": 1993122
+                }
+            ]
+        }
+    ]
+}
